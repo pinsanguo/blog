@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>不落阁后台管理系统</title>
+    <title>琅琊阁后台管理系统</title>
     <link rel="shortcut icon" href="{{asset('admin/images/Logo_40.png')}}" type="image/x-icon">
     <!-- layui.css -->
     <link href="{{asset('admin/plugin/layui/css/layui.css')}}" rel="stylesheet" />
@@ -23,7 +23,7 @@
                 <a class="ht-user-name">超级管理员</a>
             </div>
         </div>
-        <span class="sys-title">不落阁后台管理系统</span>
+        <span class="sys-title">琅琊阁后台管理系统</span>
         <ul class="ht-nav">
             <li class="ht-nav-item">
                 <a target="_blank" href="javascript:;">前台入口</a>
